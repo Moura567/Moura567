@@ -1,5 +1,5 @@
   <div id="b" align="center">
-  <p>Hello all</p>
+  <p>Hello everyone </p>
 
   <img src="https://media0.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47o6sg4j6ycckl71hut1p44h1gd1qn2e5t5k4f510s&rid=giphy.gif&ct=g" width="250">
 </div>
