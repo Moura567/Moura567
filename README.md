@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+  <div id="b" align="center">
+  <p>Hello all</p>
 
-
+  <img src="https://media0.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47o6sg4j6ycckl71hut1p44h1gd1qn2e5t5k4f510s&rid=giphy.gif&ct=g" width="250">
+</div>
 I am Omar Magdy 
 
 
@@ -17,10 +17,10 @@ ungraduated Student at Fcai Cairo and i seek to be a fomous software engineer
   <a href = "https://www.linkedin.com/in/omar-magdy-0a9a60207/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://api.whatsapp.com/send?phone=01124273671">
+<a href="https://api.whatsapp.com/send?phone=+201124273671">
     <img src="https://img.shields.io/badge/Whatsapp-softgreen?style=for-the-badge&logo=Whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp Badge"/>
   </a>
-  <a href="www.facebook.com/Hannibvl">
+  <a href="https://m.facebook.com/100026474889539/">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
 </div>
