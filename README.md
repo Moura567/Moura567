@@ -27,3 +27,9 @@ ungraduated Student at Fcai Cairo and i seek to be a fomous software engineer
 <div id="m" align="center">
 <img src="https://komarev.com/ghpvc/?username=Moura567&style=flat-square&color=blue" alt="/">
 </div>
+
+## Github Statistics :chart_with_upwards_trend:
+
+![Omar magdy GitHub stats](https://github-readme-stats.vercel.app/api?username=Moura567&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moura567&layout=compact&show_icons=true&theme=dracula)
