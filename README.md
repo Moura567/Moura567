@@ -7,9 +7,9 @@ I am Omar Magdy
 
 
 
-ungraduated Student at Fcai Cairo and i seek to be a fomous software engineer 
+ungraduated Student at Fcai Cairo and i seek to be a famous software engineer 
 
-## Connect with me :smiley:
+## Connect me :smiley:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
