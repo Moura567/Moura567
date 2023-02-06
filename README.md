@@ -33,3 +33,12 @@ ungraduated Student at Fcai Cairo and i seek to be a famous software engineer
 ![Omar magdy GitHub stats](https://github-readme-stats.vercel.app/api?username=Moura567&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moura567&layout=compact&show_icons=true&theme=dracula)
+
+
+## My Codeforces Stats
+
+![](https://raw.githubusercontent.com/Moura567/CodeForces/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Moura567/CodeForces/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/sudiptob2/CodeForces/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/CodeForces/main/output/rating.svg)
