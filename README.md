@@ -1,13 +1,23 @@
-  <div id="b" align="center">
-  <p>Hello everyone </p>
+  <div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30" height="30"></h2>
 
-  <img src="https://media0.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47o6sg4j6ycckl71hut1p44h1gd1qn2e5t5k4f510s&rid=giphy.gif&ct=g" width="250">
-</div>
-I am Omar Magdy 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Moura's+Github+!)](https://git.io/typing-svg)
 
 
-
-ungraduated Student at Fcai Cairo and i seek to be a famous software engineer 
+ungraduated Student at Fcai Cairo and i seek to be a famous software engineer
+  </div>
+  ## Languages and Tools 🛠:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
+ </p>
+ 
 
 ## Connect me :smiley:
 <div id="header" align="center">
