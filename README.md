@@ -13,7 +13,7 @@
 ### **Backend Development:**
 <p>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/dot-net.png](https://www.flaticon.com/free-icon/software_13670705?term=dotnet&page=1&position=3&origin=tag&related_id=13670705)"/>
+  <img src="https://img.icons8.com/fluency/48/000000/dot-net.png"/>
   <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
   <img src="https://img.icons8.com/color/48/000000/entity-framework.png"/>
 </p>
